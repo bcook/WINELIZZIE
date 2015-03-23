@@ -1,0 +1,220 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Duchene:2005bd}
+\bibinfo{author}{Duch{\^e}ne, E.} \& \bibinfo{author}{Schneider, C.}
+\newblock \bibinfo{title}{Grapevine and climatic changes: a glance at the
+  situation in alsace}.
+\newblock \emph{\bibinfo{journal}{Agronomy for sustainable development}}
+  \textbf{\bibinfo{volume}{25}}, \bibinfo{pages}{93--99}
+  (\bibinfo{year}{2005}).
+
+\bibitem{Seguin2005}
+\bibinfo{author}{Seguin, B.} \& \bibinfo{author}{de~Cortazar, I.~G.}
+\newblock \bibinfo{title}{Climate warming: Consequences for viticulture and the
+  notion of 'terroirs' in europe}.
+\newblock \emph{\bibinfo{journal}{Acta Horticulturae}} \bibinfo{pages}{61--69}
+  (\bibinfo{year}{2005}).
+
+\bibitem{webb2011}
+\bibinfo{author}{Webb, L.~B.}, \bibinfo{author}{Whetton, P.~H.} \&
+  \bibinfo{author}{Barlow, E. W.~R.}
+\newblock \bibinfo{title}{{Observed trends in winegrape maturity in
+  Australia}}.
+\newblock \emph{\bibinfo{journal}{Global Change Biology}}
+  \textbf{\bibinfo{volume}{17}}, \bibinfo{pages}{2707--2719}
+  (\bibinfo{year}{2011}).
+
+\bibitem{Daux2012}
+\bibinfo{author}{Daux, V.} \emph{et~al.}
+\newblock \bibinfo{title}{{An open-access database of grape harvest dates for
+  climate research: data description and quality assessment}}.
+\newblock \emph{\bibinfo{journal}{Climate of the Past}}
+  \textbf{\bibinfo{volume}{8}}, \bibinfo{pages}{1403--1418}
+  (\bibinfo{year}{2012}).
+
+\bibitem{Luterbacher2004}
+\bibinfo{author}{Luterbacher, J.}, \bibinfo{author}{Dietrich, D.},
+  \bibinfo{author}{Xoplaki, E.}, \bibinfo{author}{Grosjean, M.} \&
+  \bibinfo{author}{Wanner, H.}
+\newblock \bibinfo{title}{{European Seasonal and Annual Temperature
+  Variability, Trends, and Extremes Since 1500}}.
+\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{303}},
+  \bibinfo{pages}{1499--1503} (\bibinfo{year}{2004}).
+
+\bibitem{CookOWDA2015}
+\bibinfo{author}{Cook, E.~R.} \emph{et~al.}
+\newblock \bibinfo{title}{{Old World Droughts and Pluvials During the Common
+  Era}}.
+\newblock \emph{\bibinfo{journal}{{Science}}}  (\bibinfo{year}{in review}).
+
+\bibitem{Pauling2006}
+\bibinfo{author}{Pauling, A.}, \bibinfo{author}{Luterbacher, J.},
+  \bibinfo{author}{Casty, C.} \& \bibinfo{author}{Wanner, H.}
+\newblock \bibinfo{title}{{Five hundred years of gridded high-resolution
+  precipitation reconstructions over Europe and the connection to large-scale
+  circulation}}.
+\newblock \emph{\bibinfo{journal}{Climate Dynamics}}
+  \textbf{\bibinfo{volume}{26}}, \bibinfo{pages}{387--405}
+  (\bibinfo{year}{2006}).
+
+\bibitem{Jones:2000br}
+\bibinfo{author}{Jones, G.~V.} \& \bibinfo{author}{Davis, R.~E.}
+\newblock \bibinfo{title}{{Climate Influences on Grapevine Phenology, Grape
+  Composition, and Wine Production and Quality for Bordeaux, France}}.
+\newblock \emph{\bibinfo{journal}{American Journal of Enology and Viticulture}}
+  \textbf{\bibinfo{volume}{51}}, \bibinfo{pages}{249--261}
+  (\bibinfo{year}{2000}).
+
+\bibitem{schultzjones}
+\bibinfo{author}{Schultz, H.~R.} \& \bibinfo{author}{Jones, G.~V.}
+\newblock \bibinfo{title}{{Climate Induced Historic and Future Changes in
+  Viticulture}}.
+\newblock \emph{\bibinfo{journal}{Journal of Wine Research}}
+  \textbf{\bibinfo{volume}{21}}, \bibinfo{pages}{137--145}
+  (\bibinfo{year}{2010}).
+
+\bibitem{tomasi2011}
+\bibinfo{author}{Tomasi, D.}, \bibinfo{author}{Jones, G.~V.},
+  \bibinfo{author}{Giust, M.}, \bibinfo{author}{Lovat, L.} \&
+  \bibinfo{author}{Gaiotti, F.}
+\newblock \bibinfo{title}{{Grapevine Phenology and Climate Change:
+  Relationships and Trends in the Veneto Region of Italy for 1964--2009}}.
+\newblock \emph{\bibinfo{journal}{American Journal of Enology and Viticulture}}
+   (\bibinfo{year}{2011}).
+
+\bibitem{odo2012}
+\bibinfo{author}{Camps, J.~O.} \& \bibinfo{author}{Ramos, M.~C.}
+\newblock \bibinfo{title}{{Grape harvest and yield responses to inter-annual
+  changes in temperature and precipitation in an area of north-east Spain with
+  a Mediterranean climate}}.
+\newblock \emph{\bibinfo{journal}{International Journal of Biometeorology}}
+  \textbf{\bibinfo{volume}{56}}, \bibinfo{pages}{853--864}
+  (\bibinfo{year}{2012}).
+
+\bibitem{webb2012}
+\bibinfo{author}{Webb, L.~B.} \emph{et~al.}
+\newblock \bibinfo{title}{{Earlier wine-grape ripening driven by climatic
+  warming and drying and management practices}}.
+\newblock \emph{\bibinfo{journal}{Nature Climate Change}}
+  \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{259--264}
+  (\bibinfo{year}{2012}).
+
+\bibitem{jones2005}
+\bibinfo{author}{Jones, G.~V.}, \bibinfo{author}{White, M.~A.},
+  \bibinfo{author}{Cooper, O.~R.} \& \bibinfo{author}{Storchmann, K.}
+\newblock \bibinfo{title}{{Climate Change and Global Wine Quality}}.
+\newblock \emph{\bibinfo{journal}{Climatic Change}}
+  \textbf{\bibinfo{volume}{73}}, \bibinfo{pages}{319--343}
+  (\bibinfo{year}{2005}).
+
+\bibitem{mori2007}
+\bibinfo{author}{Mori, K.}, \bibinfo{author}{Goto-Yamamoto, N.},
+  \bibinfo{author}{Kitayama, M.} \& \bibinfo{author}{Hashizume, K.}
+\newblock \bibinfo{title}{{Loss of anthocyanins in red-wine grape under high
+  temperature}}.
+\newblock \emph{\bibinfo{journal}{Journal of Experimental Botany}}
+  \textbf{\bibinfo{volume}{58}}, \bibinfo{pages}{1935--1945}
+  (\bibinfo{year}{2007}).
+
+\bibitem{Gladstones2011}
+\bibinfo{author}{Gladstones, J.}
+\newblock \emph{\bibinfo{title}{Wine, terroir and climate change}}
+  (\bibinfo{publisher}{Wakefield Press}, \bibinfo{year}{2011}).
+
+\bibitem{jones2013}
+\bibinfo{author}{Jones, G.~V.}
+\newblock \bibinfo{title}{{Winegrape Phenology}}.
+\newblock In \bibinfo{editor}{Schwartz, M.~D.} (ed.)
+  \emph{\bibinfo{booktitle}{{Phenology: An Integrative Environmental
+  Science}}}, \bibinfo{pages}{563--584} (\bibinfo{publisher}{Springer
+  Netherlands}, \bibinfo{year}{2013}).
+
+\bibitem{greer2010}
+\bibinfo{author}{Greer, D.~H.} \& \bibinfo{author}{Weston, C.}
+\newblock \bibinfo{title}{{Heat stress affects flowering, berry growth, sugar
+  accumulation and photosynthesis of Vitis vinifera cv. Semillon grapevines
+  grown in a controlled environment T1 - Heat stress affects flowering, berry
+  growth, sugar accumulation and photosynthesis of Vitis vinifera cv. Semillon
+  grapevines grown in a controlled environment}}.
+\newblock \emph{\bibinfo{journal}{Functional Plant Biology}}
+  \textbf{\bibinfo{volume}{37}}, \bibinfo{pages}{206--214}
+  (\bibinfo{year}{2010}).
+
+\bibitem{chaves2010}
+\bibinfo{author}{Chaves, M.~M.} \emph{et~al.}
+\newblock \bibinfo{title}{{Grapevine under deficit irrigation: hints from
+  physiological and molecular data}}.
+\newblock \emph{\bibinfo{journal}{Annals of Botany}}
+  \textbf{\bibinfo{volume}{105}}, \bibinfo{pages}{661--676}
+  (\bibinfo{year}{2010}).
+
+\bibitem{baciocco2014}
+\bibinfo{author}{Baciocco, K.~A.}, \bibinfo{author}{Davis, R.~E.} \&
+  \bibinfo{author}{Jones, G.~V.}
+\newblock \bibinfo{title}{{Climate and Bordeaux wine quality: identifying the
+  key factors that differentiate vintages based on consensus rankings}}.
+\newblock \emph{\bibinfo{journal}{Journal of Wine Research}}
+  \textbf{\bibinfo{volume}{25}}, \bibinfo{pages}{75--90}
+  (\bibinfo{year}{2014}).
+
+\bibitem{vanlee2009}
+\bibinfo{author}{Van~Leeuwen, C.} \emph{et~al.}
+\newblock \bibinfo{title}{{Vine water status is a key factor in grape ripening
+  and vintage quality for red Bordeaux wine. How can it be assessed for
+  vineyard management purposes}}.
+\newblock \emph{\bibinfo{journal}{Journal International Des Sciences De La
+  Vigne Et Du Vin}} \textbf{\bibinfo{volume}{43}}, \bibinfo{pages}{121--134}
+  (\bibinfo{year}{2009}).
+
+\bibitem{coombe1987}
+\bibinfo{author}{Coombe, B.~G.}
+\newblock \bibinfo{title}{{Influence of temperature on composition and quality
+  of grapes}}.
+\newblock In \emph{\bibinfo{booktitle}{Symposium on Grapevine Canopy and Vigor
+  Management, XXII IHC 206}}, \bibinfo{pages}{23--36} (\bibinfo{year}{1986}).
+
+\bibitem{Oppenheimer2003}
+\bibinfo{author}{Oppenheimer, C.}
+\newblock \bibinfo{title}{{Climatic, environmental and human consequences of
+  the largest known historic eruption: Tambora volcano (Indonesia) 1815}}.
+\newblock \emph{\bibinfo{journal}{Progress in Physical Geography}}
+  \textbf{\bibinfo{volume}{27}}, \bibinfo{pages}{230--259}
+  (\bibinfo{year}{2003}).
+
+\bibitem{Rebetz2006}
+\bibinfo{author}{Rebetez, M.} \emph{et~al.}
+\newblock \bibinfo{title}{{Heat and drought 2003 in Europe: a climate
+  synthesis}}.
+\newblock \emph{\bibinfo{journal}{Annals of Forest Science}}
+  \textbf{\bibinfo{volume}{63}}, \bibinfo{pages}{569--577}
+  (\bibinfo{year}{2006}).
+
+\bibitem{Harris2014}
+\bibinfo{author}{Harris, I.}, \bibinfo{author}{Jones, P.~D.},
+  \bibinfo{author}{Osborn, T.~J.} \& \bibinfo{author}{Lister, D.~H.}
+\newblock \bibinfo{title}{{Updated high-resolution grids of monthly climatic
+  observations --the CRU TS3.10 Dataset}}.
+\newblock \emph{\bibinfo{journal}{International Journal of Climatology}}
+  \textbf{\bibinfo{volume}{34}}, \bibinfo{pages}{623--642}
+  (\bibinfo{year}{2014}).
+
+\bibitem{Palmer:1965}
+\bibinfo{author}{Palmer, W.~C.}
+\newblock \bibinfo{title}{{Meteorological drought, Research Paper No. 45}}.
+\newblock \emph{\bibinfo{journal}{US Weather Bureau, Washington, DC}}
+  \textbf{\bibinfo{volume}{58}} (\bibinfo{year}{1965}).
+
+\bibitem{Schrier2013}
+\bibinfo{author}{van~der Schrier, G.}, \bibinfo{author}{Barichivich, J.},
+  \bibinfo{author}{Briffa, K.~R.} \& \bibinfo{author}{Jones, P.~D.}
+\newblock \bibinfo{title}{{A scPDSI-based global data set of dry and wet spells
+  for 1901--2009}}.
+\newblock \emph{\bibinfo{journal}{Journal of Geophysical Research:
+  Atmospheres}}  (\bibinfo{year}{2013}).
+
+\end{thebibliography}
