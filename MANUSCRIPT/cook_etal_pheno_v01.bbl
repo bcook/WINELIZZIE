@@ -178,6 +178,15 @@
 \newblock In \emph{\bibinfo{booktitle}{Symposium on Grapevine Canopy and Vigor
   Management, XXII IHC 206}}, \bibinfo{pages}{23--36} (\bibinfo{year}{1986}).
 
+\bibitem{Harris2014}
+\bibinfo{author}{Harris, I.}, \bibinfo{author}{Jones, P.~D.},
+  \bibinfo{author}{Osborn, T.~J.} \& \bibinfo{author}{Lister, D.~H.}
+\newblock \bibinfo{title}{{Updated high-resolution grids of monthly climatic
+  observations --the CRU TS3.10 Dataset}}.
+\newblock \emph{\bibinfo{journal}{International Journal of Climatology}}
+  \textbf{\bibinfo{volume}{34}}, \bibinfo{pages}{623--642}
+  (\bibinfo{year}{2014}).
+
 \bibitem{Oppenheimer2003}
 \bibinfo{author}{Oppenheimer, C.}
 \newblock \bibinfo{title}{{Climatic, environmental and human consequences of
@@ -194,14 +203,13 @@
   \textbf{\bibinfo{volume}{63}}, \bibinfo{pages}{569--577}
   (\bibinfo{year}{2006}).
 
-\bibitem{Harris2014}
-\bibinfo{author}{Harris, I.}, \bibinfo{author}{Jones, P.~D.},
-  \bibinfo{author}{Osborn, T.~J.} \& \bibinfo{author}{Lister, D.~H.}
-\newblock \bibinfo{title}{{Updated high-resolution grids of monthly climatic
-  observations --the CRU TS3.10 Dataset}}.
-\newblock \emph{\bibinfo{journal}{International Journal of Climatology}}
-  \textbf{\bibinfo{volume}{34}}, \bibinfo{pages}{623--642}
-  (\bibinfo{year}{2014}).
+\bibitem{Seneviratne2006}
+\bibinfo{author}{Seneviratne, S.~I.}, \bibinfo{author}{Luthi, D.},
+  \bibinfo{author}{Litschi, M.} \& \bibinfo{author}{Schar, C.}
+\newblock \bibinfo{title}{{Land-atmosphere coupling and climate change in
+  Europe}}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{443}},
+  \bibinfo{pages}{205--209} (\bibinfo{year}{2006}).
 
 \bibitem{Palmer:1965}
 \bibinfo{author}{Palmer, W.~C.}
