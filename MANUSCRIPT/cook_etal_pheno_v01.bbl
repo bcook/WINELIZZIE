@@ -104,6 +104,14 @@
   \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{259--264}
   (\bibinfo{year}{2012}).
 
+\bibitem{jones2013}
+\bibinfo{author}{Jones, G.~V.}
+\newblock \bibinfo{title}{{Winegrape Phenology}}.
+\newblock In \bibinfo{editor}{Schwartz, M.~D.} (ed.)
+  \emph{\bibinfo{booktitle}{{Phenology: An Integrative Environmental
+  Science}}}, \bibinfo{pages}{563--584} (\bibinfo{publisher}{Springer
+  Netherlands}, \bibinfo{year}{2013}).
+
 \bibitem{jones2005}
 \bibinfo{author}{Jones, G.~V.}, \bibinfo{author}{White, M.~A.},
   \bibinfo{author}{Cooper, O.~R.} \& \bibinfo{author}{Storchmann, K.}
@@ -120,30 +128,6 @@
 \newblock \emph{\bibinfo{journal}{Journal of Experimental Botany}}
   \textbf{\bibinfo{volume}{58}}, \bibinfo{pages}{1935--1945}
   (\bibinfo{year}{2007}).
-
-\bibitem{Gladstones2011}
-\bibinfo{author}{Gladstones, J.}
-\newblock \emph{\bibinfo{title}{Wine, terroir and climate change}}
-  (\bibinfo{publisher}{Wakefield Press}, \bibinfo{year}{2011}).
-
-\bibitem{jones2013}
-\bibinfo{author}{Jones, G.~V.}
-\newblock \bibinfo{title}{{Winegrape Phenology}}.
-\newblock In \bibinfo{editor}{Schwartz, M.~D.} (ed.)
-  \emph{\bibinfo{booktitle}{{Phenology: An Integrative Environmental
-  Science}}}, \bibinfo{pages}{563--584} (\bibinfo{publisher}{Springer
-  Netherlands}, \bibinfo{year}{2013}).
-
-\bibitem{greer2010}
-\bibinfo{author}{Greer, D.~H.} \& \bibinfo{author}{Weston, C.}
-\newblock \bibinfo{title}{{Heat stress affects flowering, berry growth, sugar
-  accumulation and photosynthesis of Vitis vinifera cv. Semillon grapevines
-  grown in a controlled environment T1 - Heat stress affects flowering, berry
-  growth, sugar accumulation and photosynthesis of Vitis vinifera cv. Semillon
-  grapevines grown in a controlled environment}}.
-\newblock \emph{\bibinfo{journal}{Functional Plant Biology}}
-  \textbf{\bibinfo{volume}{37}}, \bibinfo{pages}{206--214}
-  (\bibinfo{year}{2010}).
 
 \bibitem{chaves2010}
 \bibinfo{author}{Chaves, M.~M.} \emph{et~al.}
@@ -162,6 +146,13 @@
   \textbf{\bibinfo{volume}{25}}, \bibinfo{pages}{75--90}
   (\bibinfo{year}{2014}).
 
+\bibitem{coombe1987}
+\bibinfo{author}{Coombe, B.~G.}
+\newblock \bibinfo{title}{{Influence of temperature on composition and quality
+  of grapes}}.
+\newblock In \emph{\bibinfo{booktitle}{Symposium on Grapevine Canopy and Vigor
+  Management, XXII IHC 206}}, \bibinfo{pages}{23--36} (\bibinfo{year}{1986}).
+
 \bibitem{vanlee2009}
 \bibinfo{author}{Van~Leeuwen, C.} \emph{et~al.}
 \newblock \bibinfo{title}{{Vine water status is a key factor in grape ripening
@@ -171,13 +162,6 @@
   Vigne Et Du Vin}} \textbf{\bibinfo{volume}{43}}, \bibinfo{pages}{121--134}
   (\bibinfo{year}{2009}).
 
-\bibitem{coombe1987}
-\bibinfo{author}{Coombe, B.~G.}
-\newblock \bibinfo{title}{{Influence of temperature on composition and quality
-  of grapes}}.
-\newblock In \emph{\bibinfo{booktitle}{Symposium on Grapevine Canopy and Vigor
-  Management, XXII IHC 206}}, \bibinfo{pages}{23--36} (\bibinfo{year}{1986}).
-
 \bibitem{Harris2014}
 \bibinfo{author}{Harris, I.}, \bibinfo{author}{Jones, P.~D.},
   \bibinfo{author}{Osborn, T.~J.} \& \bibinfo{author}{Lister, D.~H.}
@@ -186,13 +170,6 @@
 \newblock \emph{\bibinfo{journal}{International Journal of Climatology}}
   \textbf{\bibinfo{volume}{34}}, \bibinfo{pages}{623--642}
   (\bibinfo{year}{2014}).
-
-\bibitem{Luterbacher2015}
-\bibinfo{author}{Luterbacher, J.} \& \bibinfo{author}{Pfister, C.}
-\newblock \bibinfo{title}{The year without a summer}.
-\newblock \emph{\bibinfo{journal}{Nature Geoscience}}
-  \textbf{\bibinfo{volume}{8}}, \bibinfo{pages}{246--248}
-  (\bibinfo{year}{2015}).
 
 \bibitem{Oppenheimer2003}
 \bibinfo{author}{Oppenheimer, C.}
@@ -231,5 +208,13 @@
   for 1901--2009}}.
 \newblock \emph{\bibinfo{journal}{Journal of Geophysical Research:
   Atmospheres}}  (\bibinfo{year}{2013}).
+
+\bibitem{Rcore2014}
+\bibinfo{author}{{R Core Team}}.
+\newblock \emph{\bibinfo{title}{{R: A Language and Environment for Statistical
+  Computing}}}.
+\newblock \bibinfo{organization}{{R Foundation for Statistical Computing}},
+  \bibinfo{address}{{Vienna, Austria}} (\bibinfo{year}{2014}).
+\newblock \urlprefix\url{{http://www.R-project.org/}}.
 
 \end{thebibliography}
