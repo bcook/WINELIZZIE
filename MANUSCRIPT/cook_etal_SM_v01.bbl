@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Fischer2007}
+\bibinfo{author}{Fischer, E.~M.}, \bibinfo{author}{Seneviratne, S.~I.},
+  \bibinfo{author}{Vidale, P.~L.}, \bibinfo{author}{L{\"u}thi, D.} \&
+  \bibinfo{author}{Sch{\"a}r, C.}
+\newblock \bibinfo{title}{{Soil Moisture--Atmosphere Interactions during the
+  2003 European Summer Heat Wave}}.
+\newblock \emph{\bibinfo{journal}{Journal of Climate}}
+  \textbf{\bibinfo{volume}{20}}, \bibinfo{pages}{5081--5099}
+  (\bibinfo{year}{2007}).
+\newblock \urlprefix\url{http://dx.doi.org/10.1175/JCLI4288.1}.
+
+\bibitem{Miralles2014}
+\bibinfo{author}{Miralles, D.~G.}, \bibinfo{author}{Teuling, A.~J.},
+  \bibinfo{author}{van Heerwaarden, C.~C.} \& \bibinfo{author}{Vila-Guerau~de
+  Arellano, J.}
+\newblock \bibinfo{title}{{Mega-heatwave temperatures due to combined soil
+  desiccation and atmospheric heat accumulation}}.
+\newblock \emph{\bibinfo{journal}{Nature Geoscience}}
+  \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{345--349}
+  (\bibinfo{year}{2014}).
+\newblock \urlprefix\url{http://dx.doi.org/10.1038/ngeo2141}.
+
+\end{thebibliography}

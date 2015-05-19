@@ -187,6 +187,13 @@
   \textbf{\bibinfo{volume}{34}}, \bibinfo{pages}{623--642}
   (\bibinfo{year}{2014}).
 
+\bibitem{Luterbacher2015}
+\bibinfo{author}{Luterbacher, J.} \& \bibinfo{author}{Pfister, C.}
+\newblock \bibinfo{title}{The year without a summer}.
+\newblock \emph{\bibinfo{journal}{Nature Geoscience}}
+  \textbf{\bibinfo{volume}{8}}, \bibinfo{pages}{246--248}
+  (\bibinfo{year}{2015}).
+
 \bibitem{Oppenheimer2003}
 \bibinfo{author}{Oppenheimer, C.}
 \newblock \bibinfo{title}{{Climatic, environmental and human consequences of
