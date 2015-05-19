@@ -1,0 +1,105 @@
+% Straight up stealing preamble from Eli Holmes 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%START PREAMBLE THAT IS THE SAME FOR ALL EXAMPLES
+\documentclass{article}
+
+%Required: You must have these
+\usepackage{Sweave}
+\usepackage{graphicx}
+\usepackage{natbib}
+
+%Strongly recommended
+  %put your figures in one place
+%you'll want these for pretty captioning
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}  %make the figs 50 perc textwidth
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+% manual for caption  http://www.dd.chalmers.se/latex/Docs/PDF/caption.pdf
+
+%Optional: I like to muck with my margins and spacing in ways that LaTeX frowns on
+%Here's how to do that
+ \topmargin -1.5cm        
+ \oddsidemargin -0.04cm   
+ \evensidemargin -0.04cm  % same as oddsidemargin but for left-hand pages
+ \textwidth 16.59cm
+ \textheight 21.94cm 
+ %\pagestyle{empty}       % Uncomment if don't want page numbers
+ \parskip 7.2pt           % sets spacing between paragraphs
+ %\renewcommand{\baselinestretch}{1.5} 	% Uncomment for 1.5 spacing between lines
+\parindent 15pt		  % sets leading space for paragraphs
+\usepackage{setspace}
+%\doublespacing
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LO]{March 2015}
+\fancyhead[RO]{Wine quality}
+ 
+%%%%%%%%%%%%%%% END PREAMBLE THAT IS THE SAME FOR ALL EXAMPLES %%%%%%%%%%%%%%%%%%%%%%%
+
+%Start of the document
+\begin{document}
+% \bibliographystyle{/Users/Lizzie/Documents/EndnoteRelated/Bibtex/styles/pnas}
+
+\title{Supplemental tables for Cook \& Wolkovich: \\ Analyses of wine quality over the last 100 years}
+% \author{Cook \& Wolkovich}
+\date{\today}
+\maketitle  %put the fancy title on
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\thetable}{S\arabic{table}}
+\renewcommand{\thefigure}{S\arabic{figure}}
+
+% \renewcommand{\tablename}{Table S}
+% \renewcommand{\figurename}{Figure S}
+
+%%%%%%%%%%%%%%%% Now Lizzie attempts to write code %%%%%%
+
+
+% latex table generated in R 3.1.2 by xtable 1.7-4 package
+% Sun Apr 19 19:38:06 2015
+\begin{table}[ht]
+\centering
+\caption{No real caption as table is too long to fit in manuscript. I think we should include this information as two tables, see Tables S2 and D3 below.} 
+\begin{tabular}{r|ll|ll|ll|ll}
+  \hline
+ & GHD: pre & GHD: post & Temp: pre-80 & Temp: post-80 & Prec: pre-80 & Prec: post-80 & PDSI: pre-80 & PDSI: post-80 \\ 
+  \hline
+Red Bordeaux & -0.117 ($<$0.01) & -0.133 (0.03) & 1.244 ($<$0.01) & 1.308 (0.01) & -0.013 ($<$0.01) & -0.011 (0.12) & -0.457 ($<$0.01) & -0.119 (0.61) \\ 
+  White Bordeaux & -0.084 ($<$0.01) & -0.079 (0.14) & 0.951 ($<$0.01) & 1.109 (0.02) & -0.014 ($<$0.01) & -0.014 (0.06) & -0.291 (0.02) & -0.234 (0.32) \\ 
+  Red Burgundy & -0.102 ($<$0.01) & -0.101 (0.18) & 0.403 (0.06) & 0.612 (0.23) & -0.018 ($<$0.01) & 0 (0.96) & -0.273 (0.03) & 0.12 (0.64) \\ 
+  White Burgundy & -0.093 (0.02) & -0.144 (0.07) & 0.564 (0.04) & 1.262 (0.03) & -0.011 (0.05) & -0.013 (0.08) & -0.101 (0.52) & -0.199 (0.41) \\ 
+   \hline
+\end{tabular}
+\end{table}% latex table generated in R 3.1.2 by xtable 1.7-4 package
+% Sun Apr 19 19:38:06 2015
+\begin{table}[ht]
+\centering
+\caption{Coefficients and p-values from ordered logit models of wine quality data (on a scale of 0 to 5) and grape harvest dates (GHD) and Luterbacher May-July seasonal temperatures for the periods 1900-1980 and 1981-2001. For more details on data and analyses see XXXX (Methods in main text?).} 
+\begin{tabular}{||r||l|l||l|l||}
+  \hline
+ & GHD: 1900-1980 & GHD: 1981-2001 & Temp: 1900-1980 & Temp: 1981-2001 \\ 
+  \hline
+Red Bordeaux & -0.117 ($<$0.01) & -0.133 (0.03) & 1.244 ($<$0.01) & 1.308 (0.01) \\ 
+  White Bordeaux & -0.084 ($<$0.01) & -0.079 (0.14) & 0.951 ($<$0.01) & 1.109 (0.02) \\ 
+  Red Burgundy & -0.102 ($<$0.01) & -0.101 (0.18) & 0.403 (0.06) & 0.612 (0.23) \\ 
+  White Burgundy & -0.093 (0.02) & -0.144 (0.07) & 0.564 (0.04) & 1.262 (0.03) \\ 
+   \hline
+\end{tabular}
+\end{table}% latex table generated in R 3.1.2 by xtable 1.7-4 package
+% Sun Apr 19 19:38:06 2015
+\begin{table}[ht]
+\centering
+\caption{Coefficients and p-values from  ordered logit models of wine quality data (on a scale of 0 to 5) and Pauling May-July seasonal precipitation and Palmer Drought Severity Index (PDSI) for the periods 1900-1980 and 1981-2001. For more details on data and analyses see XXXX (Methods in main text?).} 
+\begin{tabular}{||r||l|l||l|l||}
+  \hline
+ & Prec: 1900-1980 & Prec: 1981-2001 & PDSI: 1900-1980 & PDSI: 1981-2001 \\ 
+  \hline
+Red Bordeaux & -0.013 ($<$0.01) & -0.011 (0.12) & -0.457 ($<$0.01) & -0.119 (0.61) \\ 
+  White Bordeaux & -0.014 ($<$0.01) & -0.014 (0.06) & -0.291 (0.02) & -0.234 (0.32) \\ 
+  Red Burgundy & -0.018 ($<$0.01) & 0 (0.96) & -0.273 (0.03) & 0.12 (0.64) \\ 
+  White Burgundy & -0.011 (0.05) & -0.013 (0.08) & -0.101 (0.52) & -0.199 (0.41) \\ 
+   \hline
+\end{tabular}
+\end{table}
+\end{document}
