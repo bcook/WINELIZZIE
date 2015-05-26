@@ -146,13 +146,6 @@
   \textbf{\bibinfo{volume}{25}}, \bibinfo{pages}{75--90}
   (\bibinfo{year}{2014}).
 
-\bibitem{coombe1987}
-\bibinfo{author}{Coombe, B.~G.}
-\newblock \bibinfo{title}{{Influence of temperature on composition and quality
-  of grapes}}.
-\newblock In \emph{\bibinfo{booktitle}{Symposium on Grapevine Canopy and Vigor
-  Management, XXII IHC 206}}, \bibinfo{pages}{23--36} (\bibinfo{year}{1986}).
-
 \bibitem{vanlee2009}
 \bibinfo{author}{Van~Leeuwen, C.} \emph{et~al.}
 \newblock \bibinfo{title}{{Vine water status is a key factor in grape ripening
@@ -161,6 +154,13 @@
 \newblock \emph{\bibinfo{journal}{Journal International Des Sciences De La
   Vigne Et Du Vin}} \textbf{\bibinfo{volume}{43}}, \bibinfo{pages}{121--134}
   (\bibinfo{year}{2009}).
+
+\bibitem{coombe1987}
+\bibinfo{author}{Coombe, B.~G.}
+\newblock \bibinfo{title}{{Influence of temperature on composition and quality
+  of grapes}}.
+\newblock In \emph{\bibinfo{booktitle}{Symposium on Grapevine Canopy and Vigor
+  Management, XXII IHC 206}}, \bibinfo{pages}{23--36} (\bibinfo{year}{1986}).
 
 \bibitem{Harris2014}
 \bibinfo{author}{Harris, I.}, \bibinfo{author}{Jones, P.~D.},
@@ -194,6 +194,12 @@
   Europe}}.
 \newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{443}},
   \bibinfo{pages}{205--209} (\bibinfo{year}{2006}).
+
+\bibitem{Broadbent2002}
+\bibinfo{author}{Broadbent, M.}
+\newblock \emph{\bibinfo{title}{{Vintage Wine: Fifty Years of Tasting Three
+  Centuries of Wine}}} (\bibinfo{publisher}{Harcourt Inc},
+  \bibinfo{year}{2002}).
 
 \bibitem{Palmer:1965}
 \bibinfo{author}{Palmer, W.~C.}
