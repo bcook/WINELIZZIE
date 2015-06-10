@@ -2,50 +2,50 @@ This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: cook_etal_pheno_v01.aux
 The style file: naturemag.bst
-Illegal, another \bibstyle command---line 59 of file cook_etal_pheno_v01.aux
+Illegal, another \bibstyle command---line 61 of file cook_etal_pheno_v01.aux
  : \bibstyle
  :          {naturemag}
 I'm skipping whatever remains of this command
 Database file #1: /Users/bcook/Dropbox/LATEX/mylib.bib.bib
-You've used 27 entries,
+You've used 28 entries,
             2348 wiz_defined-function locations,
-            1162 strings with 14399 characters,
-and the built_in function-call counts, 10765 in all, are:
-= -- 757
-> -- 276
+            1169 strings with 15204 characters,
+and the built_in function-call counts, 11176 in all, are:
+= -- 787
+> -- 284
 < -- 0
-+ -- 137
-- -- 69
-* -- 1305
-:= -- 1196
-add.period$ -- 81
-call.type$ -- 27
-change.case$ -- 29
++ -- 141
+- -- 71
+* -- 1356
+:= -- 1243
+add.period$ -- 84
+call.type$ -- 28
+change.case$ -- 30
 chr.to.int$ -- 0
-cite$ -- 27
-duplicate$ -- 963
-empty$ -- 1004
-format.name$ -- 90
-if$ -- 2181
+cite$ -- 28
+duplicate$ -- 999
+empty$ -- 1044
+format.name$ -- 93
+if$ -- 2265
 int.to.chr$ -- 0
-int.to.str$ -- 27
-missing$ -- 221
-newline$ -- 143
-num.names$ -- 29
-pop$ -- 177
+int.to.str$ -- 28
+missing$ -- 229
+newline$ -- 148
+num.names$ -- 30
+pop$ -- 181
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 189
+skip$ -- 194
 stack$ -- 0
-substring$ -- 498
-swap$ -- 947
+substring$ -- 525
+swap$ -- 982
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 62
-width$ -- 29
-write$ -- 300
+while$ -- 64
+width$ -- 30
+write$ -- 311
 (There was 1 error message)

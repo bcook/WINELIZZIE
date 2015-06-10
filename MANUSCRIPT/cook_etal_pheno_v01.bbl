@@ -201,6 +201,15 @@
   Centuries of Wine}}} (\bibinfo{publisher}{Harcourt Inc},
   \bibinfo{year}{2002}).
 
+\bibitem{Parker2013}
+\bibinfo{author}{Parker, A.} \emph{et~al.}
+\newblock \bibinfo{title}{{Classification of varieties for their timing of
+  flowering and veraison using a modelling approach: A case study for the
+  grapevine species Vitis vinifera L.}}
+\newblock \emph{\bibinfo{journal}{Agricultural and Forest Meteorology}}
+  \textbf{\bibinfo{volume}{180}}, \bibinfo{pages}{249 -- 264}
+  (\bibinfo{year}{2013}).
+
 \bibitem{Palmer:1965}
 \bibinfo{author}{Palmer, W.~C.}
 \newblock \bibinfo{title}{{Meteorological drought, Research Paper No. 45}}.
