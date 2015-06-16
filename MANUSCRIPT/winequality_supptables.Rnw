@@ -33,7 +33,7 @@
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\fancyhead[LO]{March 2015}
+\fancyhead[LO]{June 2015}
 \fancyhead[RO]{Wine quality}
  
 %%%%%%%%%%%%%%% END PREAMBLE THAT IS THE SAME FOR ALL EXAMPLES %%%%%%%%%%%%%%%%%%%%%%%
