@@ -50,7 +50,8 @@
 \bibinfo{author}{Cook, E.~R.} \emph{et~al.}
 \newblock \bibinfo{title}{{Old World Droughts and Pluvials During the Common
   Era}}.
-\newblock \emph{\bibinfo{journal}{{Science}}}  (\bibinfo{year}{in review}).
+\newblock \emph{\bibinfo{journal}{{Science Advances}}}  (\bibinfo{year}{in
+  revision}).
 
 \bibitem{Pauling2006}
 \bibinfo{author}{Pauling, A.}, \bibinfo{author}{Luterbacher, J.},
@@ -171,6 +172,12 @@
   \textbf{\bibinfo{volume}{34}}, \bibinfo{pages}{623--642}
   (\bibinfo{year}{2014}).
 
+\bibitem{Broadbent2002}
+\bibinfo{author}{Broadbent, M.}
+\newblock \emph{\bibinfo{title}{{Vintage Wine: Fifty Years of Tasting Three
+  Centuries of Wine}}} (\bibinfo{publisher}{Harcourt Inc},
+  \bibinfo{year}{2002}).
+
 \bibitem{Oppenheimer2003}
 \bibinfo{author}{Oppenheimer, C.}
 \newblock \bibinfo{title}{{Climatic, environmental and human consequences of
@@ -195,12 +202,6 @@
 \newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{443}},
   \bibinfo{pages}{205--209} (\bibinfo{year}{2006}).
 
-\bibitem{Broadbent2002}
-\bibinfo{author}{Broadbent, M.}
-\newblock \emph{\bibinfo{title}{{Vintage Wine: Fifty Years of Tasting Three
-  Centuries of Wine}}} (\bibinfo{publisher}{Harcourt Inc},
-  \bibinfo{year}{2002}).
-
 \bibitem{Parker2013}
 \bibinfo{author}{Parker, A.} \emph{et~al.}
 \newblock \bibinfo{title}{{Classification of varieties for their timing of
@@ -208,6 +209,22 @@
   grapevine species Vitis vinifera L.}}
 \newblock \emph{\bibinfo{journal}{Agricultural and Forest Meteorology}}
   \textbf{\bibinfo{volume}{180}}, \bibinfo{pages}{249 -- 264}
+  (\bibinfo{year}{2013}).
+
+\bibitem{Jackson1993}
+\bibinfo{author}{Jackson, D.~I.} \& \bibinfo{author}{Lombard, P.~B.}
+\newblock \bibinfo{title}{{Environmental and management practices affecting
+  grape composition and wine quality-a review}}.
+\newblock \emph{\bibinfo{journal}{American Journal of Enology and Viticulture}}
+  \textbf{\bibinfo{volume}{44}}, \bibinfo{pages}{409--430}
+  (\bibinfo{year}{1993}).
+
+\bibitem{Leeuwen2013}
+\bibinfo{author}{van Leeuwen, C.} \emph{et~al.}
+\newblock \bibinfo{title}{{Why climate change will not dramatically decrease
+  viticultural suitability in main wine-producing areas by 2050}}.
+\newblock \emph{\bibinfo{journal}{Proceedings of the National Academy of
+  Sciences}} \textbf{\bibinfo{volume}{110}}, \bibinfo{pages}{E3051--E3052}
   (\bibinfo{year}{2013}).
 
 \bibitem{Palmer:1965}

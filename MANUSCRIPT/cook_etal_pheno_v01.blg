@@ -7,45 +7,45 @@ Illegal, another \bibstyle command---line 61 of file cook_etal_pheno_v01.aux
  :          {naturemag}
 I'm skipping whatever remains of this command
 Database file #1: /Users/bcook/Dropbox/LATEX/mylib.bib.bib
-You've used 28 entries,
+You've used 30 entries,
             2348 wiz_defined-function locations,
-            1169 strings with 15204 characters,
-and the built_in function-call counts, 11176 in all, are:
-= -- 787
-> -- 284
+            1186 strings with 15903 characters,
+and the built_in function-call counts, 12014 in all, are:
+= -- 853
+> -- 300
 < -- 0
-+ -- 141
-- -- 71
-* -- 1356
-:= -- 1243
-add.period$ -- 84
-call.type$ -- 28
-change.case$ -- 30
++ -- 149
+- -- 75
+* -- 1460
+:= -- 1337
+add.period$ -- 90
+call.type$ -- 30
+change.case$ -- 32
 chr.to.int$ -- 0
-cite$ -- 28
-duplicate$ -- 999
-empty$ -- 1044
-format.name$ -- 93
-if$ -- 2265
+cite$ -- 30
+duplicate$ -- 1070
+empty$ -- 1123
+format.name$ -- 99
+if$ -- 2432
 int.to.chr$ -- 0
-int.to.str$ -- 28
-missing$ -- 229
-newline$ -- 148
-num.names$ -- 30
-pop$ -- 181
+int.to.str$ -- 30
+missing$ -- 245
+newline$ -- 158
+num.names$ -- 32
+pop$ -- 190
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 194
+skip$ -- 204
 stack$ -- 0
-substring$ -- 525
-swap$ -- 982
+substring$ -- 587
+swap$ -- 1052
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 64
-width$ -- 30
-write$ -- 311
+while$ -- 70
+width$ -- 32
+write$ -- 333
 (There was 1 error message)
