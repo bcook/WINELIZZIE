@@ -39,6 +39,17 @@
 \noindent Interpretations of the composite climate anomaly analyses (Figure 4, main manuscript) and comparisons of climate distributions (Supplemental Figure 15, top panel) for extreme early harvest years may be affected by sampling uncertainties or biases, especially during the post 1980 period when the number of years to sample from is small. For example, from 1600--1980, 72 years qualify as early harvests with GHD-Core anomalies of $-7.67$ days or earlier. Because of the terminal years in the climate reconstructions (2012 for PDSI, 2002 for temperature, 2000 for precipitation), however, from 1981 to 2007 only 18 years qualify for PDSI, 13 years for temperature, and 11 years for precipitation. To estimate the impact on our analyses of these potential sampling uncertainties, we conducted a Monte-Carlo analysis where, in each of 10,000 iterations, we resampled climate anomalies from the early harvest years with replacement for the 1600--1980 period. In each iteration, we resampled $n$ times, where $n$ is equal to the number of early harvest years from 1981--2007 (so 11 for precipitation, 13 for temperature, and 18 for PDSI).\\
 \indent Kernal density functions for the 10,000 resampled mean precipitation and PDSI anomalies are shown in the bottom panels of Supplemental Figure 15. As in the main analysis, PDSI shows the strongest shift with early harvest dates before and after 1980. Repeating the One Sided Student's t-test during each of these iterations found significant differences ($p\le0.05$) in 99\% of cases, indicating our earlier finding (drought, as represented by PDSI, is no longer associated with early harvests post-1980) is quite robust. The Monte-Carlo results were not as robust for precipitation: only 29\% of the iterations found marginally significantly ($p\le0.10$) drier conditions during the pre-1980 period compared to post-1980. In the precipitation reconstruction, however, we are severely limited in our sample size post-1980 (only 11 years, compared to 18 for PDSI). Our conclusions, however, are still strongly supported by both the observational analysis (using 20\textsuperscript{th} century climate data) and the PDSI reconstruction.
 
+\section*{Clonal Analyses}
+\noindent Selection of superior clonal material by managers may introduce changes over time that could influence vine phenology and harvest date. [LIZZIE INPUT HERE ON LANGUEDOC ETC]. To test for the potential impact of clonal selection on harvest dates, we refitted the Lan (Supplemental Figure 16) and GHD-Core (Supplemental Figure 17) regression models for three intervals across which significant clonal selection is thought to have occurred: 1947--1957, 1958--1969, and 1970--1980. Compared to the regressions using more of the available data (e.g., Lan in Supplemental Figure 8 and GHD-Core in Figure 3 from the main manuscript) the results are noisier and less significant, as expected. For both sites, however, the temperature sensitivities for both Lan and GHD-Core are similar when comparing across these 11-year intervals and previous regressions (1901--1980 and 1981--2007). Combined with our focus on GHD-Core (which should minimize local management changes), we find it unlikely that clonal selection has had a significant impact on our results.
+
+\section*{Phylloxera}
+\noindent In 1850s or 1860s, an exotic species of aphid (commonly known as grape phylloxera) was introduced to Europe. This resulted in a severe blight and destruction of many vineyards across France. Large-scale recovery of the vineyards and wine industry began in the late 1800s and early 1900s with the grafting of European vines onto phylloxera resistant root stock from the United States. There was thus a substantial shift in root stock composition beginning around the turn of the 20\textsuperscript{th} century, a change that could conceivably affect our interpretation of climatic effects on harvest date.\\
+\indent To investigate this, we calculated regression models between GHD-Core and JJA climate (temperature, precipitation, PDSI) from the climate reconstructions (instrumental data is not available prior to 1901) (Supplemental Figure 18). Shown are three intervals: 1800--1850 (prior to the phylloxera epidemic), 1851--1900 (during the phylloxera epidemic), and 1901--1980 (after widespread grafting occurred). Results are generally consistent across all three time periods. For temperature, sensitivities, range from --4.97 to --6.56 days \textsuperscript{o}C\textsuperscript{--1} with R\textsuperscript{2} values  from 0.359 to 0.464, similar to results found in the instrumental regressions for this season (Supplemental Figure 13). Similar results are found for precipitation and PDSI, although precipitation is only marginally significant for 1800--1850 (PDSI is still highly significant for this period, however). Given the lack of evidence for any systematic change in sensitivities pre- and post- phylloxera, we conclude that this event is unlikely to have significantly affected our climate based analyses and interpretations.
+
+\section*{Multiple Regression Analyses}
+\noindent Temperature, precipitation, and PDSI are all significant predictors of grape harvest dates. However, it is unclear if moisture availability (as expressed by precipitation and PDSI) acts directly on grape phenology or indirectly through modulation of temperatures. To test this, we have conducted a multiple regression analysis to investigate if significant skill is added into the model when precipitation and PDSI are included as predictors with temperature.\\
+\indent Results from the single and multiple variable regressions (1901--1980, climate data from the instrumental CRU climate grids) are shown in Table 9. Temperature is by far the single best predictor of harvest date; precipitation and PDSI are also significant predictors in their own single variable regressions. Adding precipitation and PDSI into the temperature regression model, however, does not substantially improve the explanatory power of the model (R\textsuperscript{2}) and these additional moisture terms are insignificant ($p>0.05$). This suggest that moisture variability does not affect grape phenology directly but, instead, acts through the modulation of temperatures (where drier equals warmer, via the mechanisms discussed previously).
+
 \pagebreak
 \bibliographystyle{naturemag}
 \bibliography{/Users/bcook/Dropbox/LATEX/mylib.bib}   % name your BibTeX data base
@@ -106,14 +117,6 @@ Lan & 0.550 & 0.467 & 0.450 & 0.655 & 1.00 &  &  & \\
 LLV & 0.503 & 0.712 & 0.776 & 0.709 & 0.359 & 1.00 &  & \\
 SRv & 0.414 & 0.249 & 0.456 & 0.346 & 0.765 & 0.456 & 1.00 & \\
 Swi & 0.604 & 0.554 & 0.562 & 0.569 & 0.705 & 0.697 & 0.501 & 1.00\\
-%Als &1.00 & 0.601 & 0.574 & 0.632 & 0.550 & 0.503 & 0.414 & 0.604\\
-%Bor & 0.601 & 1.00 & 0.615 & 0.675 & 0.467 & 0.712 & 0.249 & 0.554\\
-%Bur & 0.574 & 0.615 & 1.00 & 0.799 & 0.450 & 0.776 & 0.456 & 0.562\\
-%Cha1 & 0.632 & 0.675 & 0.799 & 1.00 & 0.655 & 0.709 & 0.346 & 0.569\\
-%Lan & 0.550 & 0.467 & 0.450 & 0.655 & 1.00 & 0.359 & 0.765 & 0.705\\
-%LLV & 0.503 & 0.712 & 0.776 & 0.709 & 0.359 & 1.00 & 0.456 & 0.697\\
-%SRv & 0.414 & 0.249 & 0.456 & 0.346 & 0.765 & 0.456 & 1.00 & 0.501\\
-%Swi & 0.604 & 0.554 & 0.562 & 0.569 & 0.705 & 0.697 & 0.501 & 1.00\\
 \hline
 \end{tabular}
 %\end{sidewaystable}
@@ -225,6 +228,30 @@ PDSI & 1.067015 & 0.429598   & 0.043	 & 0.012 & 0.301859 & 0.592694\\
 %\end{sidewaystable}
 \end{sidewaystable}
 
+%% TABLE: MULTIPLE REGRESSION
+% FINAL CHECK: DONE
+\begin{sidewaystable}
+\small
+\caption{\small Single and multivariate regressions between the CRU instrumental climate data (MJJ, 1901--1980) and GHD-Core. Predictors are in the first column (temperature, precipitation, PDSI), followed by the coefficient of determination for the full regression model (R\textsuperscript{2}), Aikaike Information Criteria (AIC), and regression coefficients and significance levels for the first (x1) and (where applicable) second (x2) and third (x3) predictors.}
+\centering
+\begin{tabular}{l c c c c c}
+\hline
+Predictor(s) & R\textsuperscript{2} & AIC & x1 (p) & x2 (p) & x3 (p)\\
+\hline
+Temp	 & 0.704 & 421.72 & -6.04 ($<0.001$) & NA & NA\\
+Prec	 & 0.241 & 496.99 & +0.07 ($<0.001$) & NA & NA\\
+PDSI & 0.133 & 507.70 & +1.68 ($<0.001$) & NA & NA\\
+\hline
+Temp (x1) + Prec (x2) & 0.713 & 421.27 & -5.66 ($<0.001$) & +0.02 (0.126) & NA\\
+Temp (x1) + PDSI (x2)	& 0.706 & 423.08 & -5.90 ($<0.001$) & +0.24 (0.436) & NA\\
+Temp (x1) + Prec (x2) + PDSI (x3)	& 0.713 & 423.26 & -5.67 ($<0.001$) & +0.02 (0.190) & +0.02 (0.946)\\
+\hline
+\end{tabular}
+\end{sidewaystable}
+%\end{sidewaystable}
+
+
+
 \pagebreak
 
 %% THESE COMMANDS ARE USED TO RESET THE SUPPLEMENTAL FIGURE NAMES
@@ -237,6 +264,8 @@ PDSI & 1.067015 & 0.429598   & 0.043	 & 0.012 & 0.301859 & 0.592694\\
 \includegraphics[width=1.0\columnwidth,scale=2]{SUPP_fig_01_map_sites.png}
 \caption{Geographic locations for all 27 regional grape harvest date time series in DAUX. Highlighted in red are the sites that comprise the GHD-Core index: Alsace (Als), Bordeaux (Bor), Burgundy (Bur), Champagne 1 (Cha1), Languedoc (Lan), the Lower Loire Valley (LLV), the Southern Rhone Valley (SRv), and Switzerland at Lake Geneva (Swi). The dashed black box indicates the GHD-Core region (2\textsuperscript{o}W--8\textsuperscript{o}E, 43\textsuperscript{o}N--51\textsuperscript{o}N) over which climate anomalies from the CRU instrumental climate datasets and the three climate reconstructions were averaged for the various regression analyses.}
 \end{figure}
+
+\clearpage
 
 \begin{figure}
 \center
@@ -320,6 +349,24 @@ PDSI & 1.067015 & 0.429598   & 0.043	 & 0.012 & 0.301859 & 0.592694\\
 \center
 \includegraphics[width=1.0\columnwidth,scale=2]{SUPP_fig_15_JJA_boxplot_monte.png}
 \caption{Top row: box plots of pooled precipitation and PDSI anomalies from the climate reconstructions for years with early harvest date anomalies in GHD-Core. Bottom row: kernel density functions of recalculated mean precipitation and PDSI anomalies associated with early harvest dates, based on 10,000 Monte-Carlo resamplings with replacement. Dashed vertical lines represent the mean anomalies calculated from the actual early harvest years from 1600--1980 (blue) and 1981--2007 (green).}
+\end{figure}
+
+\begin{figure}
+\center
+\includegraphics[width=1.0\columnwidth,scale=2]{SUPP_fig_16_clonetest_Lan.png}
+\caption{Regressions between harvest date and the instrumental data (temperature, precipitation, PDSI) for the Languedoc regional series. Interval correspond roughly to a time period when significant clonal selection at Languedoc likely occurred.}
+\end{figure}
+
+\begin{figure}
+\center
+\includegraphics[width=1.0\columnwidth,scale=2]{SUPP_fig_17_clonetest_GHDcore.png}
+\caption{As Supplementary Figure 16, but for GHD-Core.}
+\end{figure}
+
+\begin{figure}
+\center
+\includegraphics[width=1.0\columnwidth,scale=2]{SUPP_fig_18_regress_ghdcore_phylloxera.png}
+\caption{Regressions between harvest date and the climate reconstructions data (temperature, precipitation, PDSI) for the GHD-Core composite series. Interval correspond to intervals prior to the introduction of phylloxera (1800--1850), during the infestation (1851--1900), and following the widespread grafting of French vines onto American root stock (1901--1980).}
 \end{figure}
 
 \end{document}

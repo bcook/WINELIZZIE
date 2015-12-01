@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  22 JUL 2015 13:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  1 DEC 2015 09:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -176,7 +176,13 @@ Overfull \hbox (19.87933pt too wide) in paragraph at lines 39--41
 (Fig-ure 4, main manuscript)
  []
 
-[2] [3] (./cook_etal_SM_v01.bbl
+[2] [3]
+Overfull \hbox (0.40434pt too wide) in paragraph at lines 46--48
+\OT1/ptm/m/n/12 (in-stru-men-tal data is not avail-able prior to 1901) (Sup-ple
+-men-tal Fig-ure 18). Shown
+ []
+
+[4] [5] (./cook_etal_SM_v01.bbl
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 17.
@@ -197,175 +203,200 @@ b/n/12 20\OT1/ptm/m/n/12 , 5081--5099 (2007).  URL
 
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 52.
+(Font)              <10.95> on input line 63.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
 
-Overfull \hbox (8.63359pt too wide) in paragraph at lines 52--66
+Overfull \hbox (8.63359pt too wide) in paragraph at lines 63--77
  [][] 
  []
 
 
-Overfull \hbox (20.69978pt too wide) in paragraph at lines 210--226
+Overfull \hbox (20.69978pt too wide) in paragraph at lines 213--229
  [][] 
  []
 
-[4] [5] [6] [7] <SUPP_fig_01_map_sites.png, id=34, 500.8311pt x 491.436pt>
+[6] [7] [8] [9] <SUPP_fig_01_map_sites.png, id=40, 500.8311pt x 491.436pt>
 File: SUPP_fig_01_map_sites.png Graphic file (type png)
 
 <use SUPP_fig_01_map_sites.png>
-Package pdftex.def Info: SUPP_fig_01_map_sites.png used on input line 237.
+Package pdftex.def Info: SUPP_fig_01_map_sites.png used on input line 264.
 (pdftex.def)             Requested size: 1001.65976pt x 982.8696pt.
-
-<SUPP_fig_02_numobs.png, id=35, 622.2447pt x 465.6597pt>
+ [10] [11] [12] [13] [14 <./SUPP_fig_01_map_sites.png (PNG copy)>] <SUPP_fig_02
+_numobs.png, id=57, 622.2447pt x 465.6597pt>
 File: SUPP_fig_02_numobs.png Graphic file (type png)
 
 <use SUPP_fig_02_numobs.png>
-Package pdftex.def Info: SUPP_fig_02_numobs.png used on input line 243.
+Package pdftex.def Info: SUPP_fig_02_numobs.png used on input line 272.
 (pdftex.def)             Requested size: 1244.48639pt x 931.31711pt.
 
-<SUPP_fig_03_core_vs_sites.png, id=36, 1877.3337pt x 1344.4629pt>
+<SUPP_fig_03_core_vs_sites.png, id=58, 1877.3337pt x 1344.4629pt>
 File: SUPP_fig_03_core_vs_sites.png Graphic file (type png)
 
 <use SUPP_fig_03_core_vs_sites.png>
-Package pdftex.def Info: SUPP_fig_03_core_vs_sites.png used on input line 249.
+Package pdftex.def Info: SUPP_fig_03_core_vs_sites.png used on input line 278.
 (pdftex.def)             Requested size: 3754.65826pt x 2688.91925pt.
 
-<SUPP_fig_04_Als_MJJ_climate_onedeg_withtrend.png, id=37, 1246.6575pt x 1657.15
+<SUPP_fig_04_Als_MJJ_climate_onedeg_withtrend.png, id=59, 1246.6575pt x 1657.15
 11pt>
 File: SUPP_fig_04_Als_MJJ_climate_onedeg_withtrend.png Graphic file (type png)
  <use SUPP_fig_04_Als_MJJ_climate_onedeg_withtrend.png>
 Package pdftex.def Info: SUPP_fig_04_Als_MJJ_climate_onedeg_withtrend.png used 
-on input line 255.
+on input line 284.
 (pdftex.def)             Requested size: 2493.30893pt x 3314.2941pt.
 
 
-LaTeX Warning: Float too large for page by 17.62566pt on input line 257.
+LaTeX Warning: Float too large for page by 17.62566pt on input line 286.
 
 
-<SUPP_fig_05_Bor_MJJ_climate_onedeg_withtrend.png, id=38, 1246.6575pt x 1657.15
+<SUPP_fig_05_Bor_MJJ_climate_onedeg_withtrend.png, id=60, 1246.6575pt x 1657.15
 11pt>
 File: SUPP_fig_05_Bor_MJJ_climate_onedeg_withtrend.png Graphic file (type png)
  <use SUPP_fig_05_Bor_MJJ_climate_onedeg_withtrend.png>
 Package pdftex.def Info: SUPP_fig_05_Bor_MJJ_climate_onedeg_withtrend.png used 
-on input line 261.
+on input line 290.
 (pdftex.def)             Requested size: 2493.30893pt x 3314.2941pt.
 
-<SUPP_fig_06_Bur_MJJ_climate_onedeg_withtrend.png, id=39, 1246.6575pt x 1657.15
+<SUPP_fig_06_Bur_MJJ_climate_onedeg_withtrend.png, id=61, 1246.6575pt x 1657.15
 11pt>
 File: SUPP_fig_06_Bur_MJJ_climate_onedeg_withtrend.png Graphic file (type png)
  <use SUPP_fig_06_Bur_MJJ_climate_onedeg_withtrend.png>
 Package pdftex.def Info: SUPP_fig_06_Bur_MJJ_climate_onedeg_withtrend.png used 
-on input line 267.
+on input line 296.
 (pdftex.def)             Requested size: 2493.30893pt x 3314.2941pt.
 
-<SUPP_fig_07_Cha1_MJJ_climate_onedeg_withtrend.png, id=40, 1246.6575pt x 1657.1
+<SUPP_fig_07_Cha1_MJJ_climate_onedeg_withtrend.png, id=62, 1246.6575pt x 1657.1
 511pt>
 File: SUPP_fig_07_Cha1_MJJ_climate_onedeg_withtrend.png Graphic file (type png)
 
  <use SUPP_fig_07_Cha1_MJJ_climate_onedeg_withtrend.png>
 Package pdftex.def Info: SUPP_fig_07_Cha1_MJJ_climate_onedeg_withtrend.png used
- on input line 273.
+ on input line 302.
 (pdftex.def)             Requested size: 2493.30893pt x 3314.2941pt.
 
-<SUPP_fig_08_Lan_MJJ_climate_onedeg_withtrend.png, id=41, 1246.6575pt x 1657.15
+<SUPP_fig_08_Lan_MJJ_climate_onedeg_withtrend.png, id=63, 1246.6575pt x 1657.15
 11pt>
 File: SUPP_fig_08_Lan_MJJ_climate_onedeg_withtrend.png Graphic file (type png)
  <use SUPP_fig_08_Lan_MJJ_climate_onedeg_withtrend.png>
 Package pdftex.def Info: SUPP_fig_08_Lan_MJJ_climate_onedeg_withtrend.png used 
-on input line 279.
+on input line 308.
 (pdftex.def)             Requested size: 2493.30893pt x 3314.2941pt.
 
-<SUPP_fig_09_LLV_MJJ_climate_onedeg_withtrend.png, id=42, 1246.6575pt x 1657.15
+<SUPP_fig_09_LLV_MJJ_climate_onedeg_withtrend.png, id=64, 1246.6575pt x 1657.15
 11pt>
 File: SUPP_fig_09_LLV_MJJ_climate_onedeg_withtrend.png Graphic file (type png)
  <use SUPP_fig_09_LLV_MJJ_climate_onedeg_withtrend.png>
 Package pdftex.def Info: SUPP_fig_09_LLV_MJJ_climate_onedeg_withtrend.png used 
-on input line 285.
+on input line 314.
 (pdftex.def)             Requested size: 2493.30893pt x 3314.2941pt.
 
-<SUPP_fig_10_SRv_MJJ_climate_onedeg_withtrend.png, id=43, 1246.6575pt x 1657.15
+<SUPP_fig_10_SRv_MJJ_climate_onedeg_withtrend.png, id=65, 1246.6575pt x 1657.15
 11pt>
 File: SUPP_fig_10_SRv_MJJ_climate_onedeg_withtrend.png Graphic file (type png)
  <use SUPP_fig_10_SRv_MJJ_climate_onedeg_withtrend.png>
 Package pdftex.def Info: SUPP_fig_10_SRv_MJJ_climate_onedeg_withtrend.png used 
-on input line 291.
+on input line 320.
 (pdftex.def)             Requested size: 2493.30893pt x 3314.2941pt.
 
-<SUPP_fig_11_SWi_MJJ_climate_onedeg_withtrend.png, id=44, 1246.6575pt x 1657.15
+<SUPP_fig_11_SWi_MJJ_climate_onedeg_withtrend.png, id=66, 1246.6575pt x 1657.15
 11pt>
 File: SUPP_fig_11_SWi_MJJ_climate_onedeg_withtrend.png Graphic file (type png)
  <use SUPP_fig_11_SWi_MJJ_climate_onedeg_withtrend.png>
 Package pdftex.def Info: SUPP_fig_11_SWi_MJJ_climate_onedeg_withtrend.png used 
-on input line 297.
+on input line 326.
 (pdftex.def)             Requested size: 2493.30893pt x 3314.2941pt.
 
-<SUPP_fig_12_temp_vs_moist_MJJ.png, id=45, 836.1639pt x 758.835pt>
+<SUPP_fig_12_temp_vs_moist_MJJ.png, id=67, 836.1639pt x 758.835pt>
 File: SUPP_fig_12_temp_vs_moist_MJJ.png Graphic file (type png)
 
 <use SUPP_fig_12_temp_vs_moist_MJJ.png>
 Package pdftex.def Info: SUPP_fig_12_temp_vs_moist_MJJ.png used on input line 3
-03.
+32.
 (pdftex.def)             Requested size: 1672.3237pt x 1517.66632pt.
 
-<SUPP_fig_13_JJA_clim_regplots.png, id=46, 1215.5814pt x 768.9528pt>
+<SUPP_fig_13_JJA_clim_regplots.png, id=68, 1215.5814pt x 768.9528pt>
 File: SUPP_fig_13_JJA_clim_regplots.png Graphic file (type png)
 
 <use SUPP_fig_13_JJA_clim_regplots.png>
 Package pdftex.def Info: SUPP_fig_13_JJA_clim_regplots.png used on input line 3
-09.
+38.
 (pdftex.def)             Requested size: 2431.15689pt x 1537.90186pt.
 
-<SUPP_fig_14_temp_vs_moist_JJA.png, id=47, 836.1639pt x 758.835pt>
+<SUPP_fig_14_temp_vs_moist_JJA.png, id=69, 836.1639pt x 758.835pt>
 File: SUPP_fig_14_temp_vs_moist_JJA.png Graphic file (type png)
 
 <use SUPP_fig_14_temp_vs_moist_JJA.png>
 Package pdftex.def Info: SUPP_fig_14_temp_vs_moist_JJA.png used on input line 3
-15.
+44.
 (pdftex.def)             Requested size: 1672.3237pt x 1517.66632pt.
 
-<SUPP_fig_15_JJA_boxplot_monte.png, id=48, 1392.6429pt x 1217.9904pt>
+<SUPP_fig_15_JJA_boxplot_monte.png, id=70, 1392.6429pt x 1217.9904pt>
 File: SUPP_fig_15_JJA_boxplot_monte.png Graphic file (type png)
 
 <use SUPP_fig_15_JJA_boxplot_monte.png>
 Package pdftex.def Info: SUPP_fig_15_JJA_boxplot_monte.png used on input line 3
-21.
+50.
 (pdftex.def)             Requested size: 2785.27902pt x 2435.97488pt.
- [8] [9] [10] [11 <./SUPP_fig_01_map_sites.png (PNG copy)>] [12 <./SUPP_fig_02_
-numobs.png (PNG copy)>] [13 <./SUPP_fig_03_core_vs_sites.png (PNG copy)>] [14 <
-./SUPP_fig_04_Als_MJJ_climate_onedeg_withtrend.png (PNG copy)>] [15 <./SUPP_fig
-_05_Bor_MJJ_climate_onedeg_withtrend.png (PNG copy)>] [16 <./SUPP_fig_06_Bur_MJ
-J_climate_onedeg_withtrend.png (PNG copy)>] [17 <./SUPP_fig_07_Cha1_MJJ_climate
-_onedeg_withtrend.png (PNG copy)>]
-[18 <./SUPP_fig_08_Lan_MJJ_climate_onedeg_withtrend.png (PNG copy)>] [19 <./SUP
-P_fig_09_LLV_MJJ_climate_onedeg_withtrend.png (PNG copy)>] [20 <./SUPP_fig_10_S
-Rv_MJJ_climate_onedeg_withtrend.png (PNG copy)>] [21 <./SUPP_fig_11_SWi_MJJ_cli
-mate_onedeg_withtrend.png (PNG copy)>] [22 <./SUPP_fig_12_temp_vs_moist_MJJ.png
- (PNG copy)>] [23 <./SUPP_fig_13_JJA_clim_regplots.png (PNG copy)>] [24 <./SUPP
-_fig_14_temp_vs_moist_JJA.png (PNG copy)>] [25 <./SUPP_fig_15_JJA_boxplot_monte
-.png (PNG copy)>] (./cook_etal_SM_v01.aux) ) 
+
+<SUPP_fig_16_clonetest_Lan.png, id=71, 1258.7025pt x 1151.2611pt>
+File: SUPP_fig_16_clonetest_Lan.png Graphic file (type png)
+
+<use SUPP_fig_16_clonetest_Lan.png>
+Package pdftex.def Info: SUPP_fig_16_clonetest_Lan.png used on input line 356.
+(pdftex.def)             Requested size: 2517.39886pt x 2302.5166pt.
+
+<SUPP_fig_17_clonetest_GHDcore.png, id=72, 1258.7025pt x 1204.5pt>
+File: SUPP_fig_17_clonetest_GHDcore.png Graphic file (type png)
+
+<use SUPP_fig_17_clonetest_GHDcore.png>
+Package pdftex.def Info: SUPP_fig_17_clonetest_GHDcore.png used on input line 3
+62.
+(pdftex.def)             Requested size: 2517.39886pt x 2408.99414pt.
+
+<SUPP_fig_18_regress_ghdcore_phylloxera.png, id=73, 2858.7603pt x 1797.114pt>
+File: SUPP_fig_18_regress_ghdcore_phylloxera.png Graphic file (type png)
+
+<use SUPP_fig_18_regress_ghdcore_phylloxera.png>
+Package pdftex.def Info: SUPP_fig_18_regress_ghdcore_phylloxera.png used on inp
+ut line 368.
+(pdftex.def)             Requested size: 5717.50671pt x 3594.21927pt.
+ [15 <./SUPP_fig_02_numobs.png (PNG copy)>] [16 <./SUPP_fig_03_core_vs_sites.pn
+g (PNG copy)>] [17 <./SUPP_fig_04_Als_MJJ_climate_onedeg_withtrend.png (PNG cop
+y)>] [18 <./SUPP_fig_05_Bor_MJJ_climate_onedeg_withtrend.png (PNG copy)>] [19 <
+./SUPP_fig_06_Bur_MJJ_climate_onedeg_withtrend.png (PNG copy)>] [20 <./SUPP_fig
+_07_Cha1_MJJ_climate_onedeg_withtrend.png (PNG copy)>] [21 <./SUPP_fig_08_Lan_M
+JJ_climate_onedeg_withtrend.png (PNG copy)>] [22 <./SUPP_fig_09_LLV_MJJ_climate
+_onedeg_withtrend.png (PNG copy)>] [23 <./SUPP_fig_10_SRv_MJJ_climate_onedeg_wi
+thtrend.png (PNG copy)>]
+[24 <./SUPP_fig_11_SWi_MJJ_climate_onedeg_withtrend.png (PNG copy)>] [25 <./SUP
+P_fig_12_temp_vs_moist_MJJ.png (PNG copy)>] [26 <./SUPP_fig_13_JJA_clim_regplot
+s.png (PNG copy)>] [27 <./SUPP_fig_14_temp_vs_moist_JJA.png (PNG copy)>]
+[28 <./SUPP_fig_15_JJA_boxplot_monte.png (PNG copy)>] [29 <./SUPP_fig_16_clonet
+est_Lan.png (PNG copy)>] [30 <./SUPP_fig_17_clonetest_GHDcore.png (PNG copy)>]
+[31 <./SUPP_fig_18_regress_ghdcore_phylloxera.png (PNG copy)>]
+(./cook_etal_SM_v01.aux) ) 
 Here is how much of TeX's memory you used:
- 1855 strings out of 493117
- 28547 string characters out of 6135433
- 106534 words of memory out of 5000000
- 5280 multiletter control sequences out of 15000+600000
+ 1871 strings out of 493117
+ 29129 string characters out of 6135433
+ 109540 words of memory out of 5000000
+ 5293 multiletter control sequences out of 15000+600000
  23714 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,11n,23p,1178b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist
-/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/couri
-er/ucrr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.
-pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
-local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on cook_etal_SM_v01.pdf (25 pages, 27167629 bytes).
+ 38i,14n,23p,1178b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/b
+ase/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
+.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/te
+xlive/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on cook_etal_SM_v01.pdf (31 pages, 30359818 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
+ 159 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 

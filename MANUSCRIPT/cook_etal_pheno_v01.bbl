@@ -48,10 +48,10 @@
 
 \bibitem{CookOWDA2015}
 \bibinfo{author}{Cook, E.~R.} \emph{et~al.}
-\newblock \bibinfo{title}{{Old World Droughts and Pluvials During the Common
-  Era}}.
-\newblock \emph{\bibinfo{journal}{{Science Advances}}}  (\bibinfo{year}{in
-  revision}).
+\newblock \bibinfo{title}{{Old World megadroughts and pluvials during the
+  Common Era}}.
+\newblock \emph{\bibinfo{journal}{Science Advances}}
+  \textbf{\bibinfo{volume}{1}} (\bibinfo{year}{2015}).
 
 \bibitem{Pauling2006}
 \bibinfo{author}{Pauling, A.}, \bibinfo{author}{Luterbacher, J.},
@@ -210,6 +210,13 @@
 \newblock \emph{\bibinfo{journal}{Agricultural and Forest Meteorology}}
   \textbf{\bibinfo{volume}{180}}, \bibinfo{pages}{249 -- 264}
   (\bibinfo{year}{2013}).
+
+\bibitem{VanLeeuwen2015}
+\bibinfo{author}{van Leeuwen, C.} \& \bibinfo{author}{Darriet, P.}
+\newblock \bibinfo{title}{{The Impact of Climate Change on Viticulture and Wine
+  Quality}}.
+\newblock \emph{\bibinfo{journal}{Journal of Wine Economics}}
+  \bibinfo{pages}{1--18} (\bibinfo{year}{2015}).
 
 \bibitem{Jackson1993}
 \bibinfo{author}{Jackson, D.~I.} \& \bibinfo{author}{Lombard, P.~B.}
