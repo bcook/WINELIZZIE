@@ -14,7 +14,6 @@
 \newblock \emph{\bibinfo{journal}{Journal of Climate}}
   \textbf{\bibinfo{volume}{20}}, \bibinfo{pages}{5081--5099}
   (\bibinfo{year}{2007}).
-\newblock \urlprefix\url{http://dx.doi.org/10.1175/JCLI4288.1}.
 
 \bibitem{Miralles2014}
 \bibinfo{author}{Miralles, D.~G.}, \bibinfo{author}{Teuling, A.~J.},
@@ -25,6 +24,44 @@
 \newblock \emph{\bibinfo{journal}{Nature Geoscience}}
   \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{345--349}
   (\bibinfo{year}{2014}).
-\newblock \urlprefix\url{http://dx.doi.org/10.1038/ngeo2141}.
+
+\bibitem{Lachiver1988}
+\bibinfo{author}{Lachiver, M.}
+\newblock \emph{\bibinfo{title}{Vins, Vignes et Vignerons: Histoire du Vignoble
+  Francais}} (\bibinfo{publisher}{Librairie Artheme Fayard},
+  \bibinfo{address}{Lille}, \bibinfo{year}{1988}).
+
+\bibitem{Loubere1978}
+\bibinfo{author}{Loubere, L.~A.}
+\newblock \emph{\bibinfo{title}{The Red and the White}}
+  (\bibinfo{publisher}{University of New York Press}, \bibinfo{address}{Albany,
+  NY}, \bibinfo{year}{1978}).
+
+\bibitem{Loubere1990}
+\bibinfo{author}{Loubere, L.~A.}
+\newblock \emph{\bibinfo{title}{The Wine Revolution in France}}
+  (\bibinfo{publisher}{Princeton University Press},
+  \bibinfo{address}{Princeton, NJ}, \bibinfo{year}{1990}).
+
+\bibitem{Paul1996}
+\bibinfo{author}{Paul, H.~W.}
+\newblock \emph{\bibinfo{title}{Science, Vine and Wine in Modern France}}
+  (\bibinfo{publisher}{Cambridge University Press}, \bibinfo{address}{New York,
+  NY}, \bibinfo{year}{1996}).
+
+\bibitem{Bouquet2002}
+\bibinfo{author}{Bouquet, A.}
+\newblock \bibinfo{title}{1962-2002: 40 ans de progres en genetique et
+  selection de la vigne}.
+\newblock \emph{\bibinfo{journal}{Le S{\'e}lectionneur Francais}}
+  \textbf{\bibinfo{volume}{53}}, \bibinfo{pages}{171--182}
+  (\bibinfo{year}{2002}).
+
+\bibitem{vanleeuwen2004}
+\bibinfo{author}{van Leeuwen, C.} \emph{et~al.}
+\newblock \bibinfo{title}{Influence of climate, soil, and cultivar on terroir}.
+\newblock \emph{\bibinfo{journal}{American Journal of Enology and Viticulture}}
+  \textbf{\bibinfo{volume}{55}}, \bibinfo{pages}{207--217}
+  (\bibinfo{year}{20014}).
 
 \end{thebibliography}

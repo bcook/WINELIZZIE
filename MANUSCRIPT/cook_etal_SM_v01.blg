@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: cook_etal_SM_v01.aux
 The style file: naturemag.bst
 Database file #1: /Users/bcook/Dropbox/LATEX/mylib.bib.bib
-You've used 2 entries,
+You've used 8 entries,
             2348 wiz_defined-function locations,
-            997 strings with 9396 characters,
-and the built_in function-call counts, 1038 in all, are:
-= -- 73
-> -- 36
+            1043 strings with 10159 characters,
+and the built_in function-call counts, 2778 in all, are:
+= -- 174
+> -- 64
 < -- 0
-+ -- 18
-- -- 9
-* -- 138
-:= -- 118
-add.period$ -- 8
-call.type$ -- 2
-change.case$ -- 2
++ -- 32
+- -- 16
+* -- 344
+:= -- 299
+add.period$ -- 20
+call.type$ -- 8
+change.case$ -- 4
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 80
-empty$ -- 82
-format.name$ -- 11
-if$ -- 197
+cite$ -- 8
+duplicate$ -- 244
+empty$ -- 296
+format.name$ -- 19
+if$ -- 572
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 21
-newline$ -- 20
-num.names$ -- 2
-pop$ -- 13
+int.to.str$ -- 8
+missing$ -- 64
+newline$ -- 44
+num.names$ -- 8
+pop$ -- 66
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 15
+skip$ -- 44
 stack$ -- 0
-substring$ -- 56
-swap$ -- 90
+substring$ -- 98
+swap$ -- 239
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 6
-width$ -- 3
-write$ -- 33
+while$ -- 14
+width$ -- 9
+write$ -- 83

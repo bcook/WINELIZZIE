@@ -163,6 +163,15 @@
 \newblock In \emph{\bibinfo{booktitle}{Symposium on Grapevine Canopy and Vigor
   Management, XXII IHC 206}}, \bibinfo{pages}{23--36} (\bibinfo{year}{1986}).
 
+\bibitem{Fila2015}
+\bibinfo{author}{Fila, G.}, \bibinfo{author}{Tomasi, D.},
+  \bibinfo{author}{Gaiotti, F.} \& \bibinfo{author}{Jones, G.~V.}
+\newblock \bibinfo{title}{{The Book of Vinesprouts of K{\H{o}}szeg (Hungary): a
+  documentary source for reconstructing spring temperatures back to the
+  eighteenth century}}.
+\newblock \emph{\bibinfo{journal}{International Journal of Biometeorology}}
+  (\bibinfo{year}{2015}).
+
 \bibitem{Harris2014}
 \bibinfo{author}{Harris, I.}, \bibinfo{author}{Jones, P.~D.},
   \bibinfo{author}{Osborn, T.~J.} \& \bibinfo{author}{Lister, D.~H.}
@@ -193,6 +202,13 @@
 \newblock \emph{\bibinfo{journal}{Annals of Forest Science}}
   \textbf{\bibinfo{volume}{63}}, \bibinfo{pages}{569--577}
   (\bibinfo{year}{2006}).
+
+\bibitem{Chuine2004}
+\bibinfo{author}{Chuine, I.} \emph{et~al.}
+\newblock \bibinfo{title}{Historical phenology: Grape ripening as a past
+  climate indicator}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{432}},
+  \bibinfo{pages}{289--290} (\bibinfo{year}{2004}).
 
 \bibitem{Seneviratne2006}
 \bibinfo{author}{Seneviratne, S.~I.}, \bibinfo{author}{Luthi, D.},
@@ -233,6 +249,20 @@
 \newblock \emph{\bibinfo{journal}{Proceedings of the National Academy of
   Sciences}} \textbf{\bibinfo{volume}{110}}, \bibinfo{pages}{E3051--E3052}
   (\bibinfo{year}{2013}).
+
+\bibitem{vanLeeuwen2016}
+\bibinfo{author}{van Leeuwen, C.} \& \bibinfo{author}{Darriet, P.}
+\newblock \bibinfo{title}{The impact of climate change on viticulture and wine
+  quality}.
+\newblock \emph{\bibinfo{journal}{Journal of Wine Economics}}
+  \bibinfo{pages}{inpress} (\bibinfo{year}{2016}).
+
+\bibitem{Cortazar-Atauri:2010um}
+\bibinfo{author}{de~Cortazar-Atauri, I.~G.} \emph{et~al.}
+\newblock \bibinfo{title}{Climate reconstructions from grape harvest dates:
+  Methodology and uncertainties}.
+\newblock \emph{\bibinfo{journal}{Holocene}} \textbf{\bibinfo{volume}{20}},
+  \bibinfo{pages}{599--608} (\bibinfo{year}{2010}).
 
 \bibitem{Palmer:1965}
 \bibinfo{author}{Palmer, W.~C.}
